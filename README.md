@@ -1,4 +1,4 @@
-[Cows](https://lfs-awp-2019.sites.olt.ubc.ca/files/2021/08/awp-home-banner.jpeg)
+![Cows](https://lfs-awp-2019.sites.olt.ubc.ca/files/2021/08/awp-home-banner.jpeg)
 
 # ANIMAL WELFARE PROGRAM
 
